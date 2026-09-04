@@ -1,0 +1,8 @@
+[project]
+name = "softseclab0"
+version = "0.1.0"
+description = "SOFTSEC Lab 0 calculator API"
+requires-python = ">=3.10"
+dependencies = [
+    "flask",
+]
